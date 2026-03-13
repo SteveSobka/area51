@@ -1,8 +1,8 @@
 ## Active
-- [ ] Add the first real sandbox project to `projects/PROJECT_INDEX.md`
+- [ ] Add the first reusable project kickoff template
 
 ## Next
-- [ ] Add the first reusable project kickoff template
+- [ ] Add a simple script README for the `scripts/` folder
 
 ## Blocked
 - None right now
@@ -19,3 +19,4 @@
 - [x] Added starter project index file
 - [x] Added starter template README
 - [x] Added the first reusable handoff template
+- [x] Added the first real sandbox project entry
