@@ -1,8 +1,8 @@
 ## Active
-- [ ] Add the first reusable project kickoff template
+- [ ] Add a simple script README for the `scripts/` folder
 
 ## Next
-- [ ] Add a simple script README for the `scripts/` folder
+- [ ] Add the first reusable testing checklist template
 
 ## Blocked
 - None right now
@@ -20,3 +20,4 @@
 - [x] Added starter template README
 - [x] Added the first reusable handoff template
 - [x] Added the first real sandbox project entry
+- [x] Added the first reusable project kickoff template
