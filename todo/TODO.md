@@ -1,8 +1,8 @@
 ## Active
-- [ ] Add the first reusable handoff template
+- [ ] Add the first real sandbox project to `projects/PROJECT_INDEX.md`
 
 ## Next
-- [ ] Add the first real sandbox project to `projects/PROJECT_INDEX.md`
+- [ ] Add the first reusable project kickoff template
 
 ## Blocked
 - None right now
@@ -18,3 +18,4 @@
 - [x] Pushed baseline framework to GitHub main
 - [x] Added starter project index file
 - [x] Added starter template README
+- [x] Added the first reusable handoff template
