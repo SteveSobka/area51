@@ -1,8 +1,8 @@
 ## Active
-- [ ] Add the first reusable testing checklist template
+- [ ] Add a simple README for the `chatgpt/` folder
 
 ## Next
-- [ ] Add a simple README for the `chatgpt/` folder
+- [ ] Add a simple idea entry template in `ideas/`
 
 ## Blocked
 - None right now
@@ -22,3 +22,4 @@
 - [x] Added the first real sandbox project entry
 - [x] Added the first reusable project kickoff template
 - [x] Added a simple script README for the `scripts/` folder
+- [x] Added the first reusable testing checklist template
