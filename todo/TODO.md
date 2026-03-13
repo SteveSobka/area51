@@ -1,8 +1,8 @@
 ## Active
-- [ ] Add a simple script README for the `scripts/` folder
+- [ ] Add the first reusable testing checklist template
 
 ## Next
-- [ ] Add the first reusable testing checklist template
+- [ ] Add a simple README for the `chatgpt/` folder
 
 ## Blocked
 - None right now
@@ -21,3 +21,4 @@
 - [x] Added the first reusable handoff template
 - [x] Added the first real sandbox project entry
 - [x] Added the first reusable project kickoff template
+- [x] Added a simple script README for the `scripts/` folder
