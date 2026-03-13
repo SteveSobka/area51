@@ -1,16 +1,20 @@
-### Active
-- [ ] Replace placeholder README with Area51 operating README
-- [ ] Prepare first baseline commit
+## Active
+- [ ] Add the first reusable handoff template
 
-### Next
-- [ ] Add starter placeholder files in empty folders
-- [ ] Commit baseline framework to main
+## Next
+- [ ] Add the first real sandbox project to `projects/PROJECT_INDEX.md`
 
-### Blocked
-- [ ] Waiting for any unpublished Codex work to be recovered or recreated
+## Blocked
+- None right now
 
-### Done
+## Done
 - [x] Cloned repo locally
-- [x] Verified remote main only has initial commit
+- [x] Verified remote main only had the initial commit
 - [x] Created canonical tracking files
 - [x] Created baseline folder structure
+- [x] Replaced placeholder README.md
+- [x] Added placeholder files for empty folders
+- [x] Committed baseline framework locally
+- [x] Pushed baseline framework to GitHub main
+- [x] Added starter project index file
+- [x] Added starter template README
