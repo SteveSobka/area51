@@ -1,8 +1,8 @@
 ## Active
-- [ ] Add a short README for the `handoffs/` folder
+- [ ] Choose the first real sandbox project to prepare in `projects/`
 
 ## Next
-- [ ] Add a short README for the `projects/` folder
+- [ ] Start a kickoff note for the selected first real sandbox project
 
 ## Blocked
 - None right now
@@ -26,3 +26,6 @@
 - [x] Added a simple README for the `chatgpt/` folder
 - [x] Added a simple idea entry template in `ideas/`
 - [x] Added a short README for the `ideas/` folder
+- [x] Added a short README for the `handoffs/` folder
+- [x] Added a short README for the `projects/` folder
+- [x] Finished the framework README polish pass
