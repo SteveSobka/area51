@@ -1,8 +1,8 @@
 ## Active
-- [ ] Add a short README for the `ideas/` folder
+- [ ] Add a short README for the `handoffs/` folder
 
 ## Next
-- [ ] Add a short README for the `handoffs/` folder
+- [ ] Add a short README for the `projects/` folder
 
 ## Blocked
 - None right now
@@ -25,3 +25,4 @@
 - [x] Added the first reusable testing checklist template
 - [x] Added a simple README for the `chatgpt/` folder
 - [x] Added a simple idea entry template in `ideas/`
+- [x] Added a short README for the `ideas/` folder
